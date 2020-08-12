@@ -1,4 +1,4 @@
-### Hi there 👋
+I am an engineer who enjoys programming in C, Python and Java.
 
 <!--
 **wt6/wt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
