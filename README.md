@@ -4,10 +4,11 @@ I am an engineer who enjoys programming in C, Python and Java.
 
 I recently created a website called AutoSelector which calculates depreciation of vehicles based on user data.
 
-<img src="img/homepage.png" alt="Screenshot of homepage" width="800"/>
+<img src="https://github.com/wt6/wt6/tree/master/img/homepage.png" alt="Screenshot of homepage" width="800"/>
 
+<img src="img/homepage.png" width="800"/>
 
-<img src="img/depreciation_example.png" alt="Screenshot example of depreciation estimate from website" width="800"/>
+<img src="https://github.com/wt6/wt6/tree/master/img/depreciation_example.png" alt="Screenshot example of depreciation estimate from website" width="800"/>
 
 <!--
 **wt6/wt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
