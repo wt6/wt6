@@ -8,10 +8,9 @@ I recently created a website called AutoSelector which calculates depreciation o
 
 <img src="https://raw.githubusercontent.com/wt6/wt6/master/img/depreciation_example.png" alt="Screenshot example of depreciation estimate from website" width="800"/>
 
-Connect with me on LinkedIn:
-
+Connect with me on LinkedIn: 
 <a href="https://linkedin.com/in/wesley-j-thompson">
-    <img src="https://raw.githubusercontent.com/wt6/wt6/master/img/LI-in-Bug.png" alt="wesley-j-thompson | LinkedIn" width="32" height="27"/>
+    <img src="https://raw.githubusercontent.com/wt6/wt6/master/img/LI-In-Bug.png" alt="wesley-j-thompson | LinkedIn" width="32" height="27"/>
 </a>
 
 <!--
